@@ -1,0 +1,14 @@
+Informações uteis
+
+Str Connect
+mongodb+srv://root:<password>@cluster0.2ytd4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+User: root
+Password: Admin357/
+
+
+Client ID
+d7551e07d2f3473fdf29
+
+SecretKey
+67934d3d29b146350527e57d82024db63289ddd8
